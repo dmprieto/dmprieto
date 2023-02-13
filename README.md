@@ -1,4 +1,4 @@
-<h2 align="center"> Hola 👋 It's Diana, over here 🙋‍♀  I'm a software engineer who enjoys frontend development and also some backend coding </h2>
+<h2 align="center"> Hola 👋  I'm a software engineer who enjoys frontend development and also some backend coding </h2>
 <br />
 
  -  I'm currently learning how to do ✨Open Source✨ contributions
