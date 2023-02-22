@@ -15,6 +15,8 @@
     <img alt="On Linkedin" src="https://img.shields.io/twitter/url?label=%2Fdiana-marcela-prieto-66432b3a&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiana-marcela-prieto-66432b3a%2F">
   </a>
  </p>
+ 
+ ![Visitor Count](https://profile-counter.glitch.me/{dmprieto}/count.svg)
 
 <!--
 **dmprieto/dmprieto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
