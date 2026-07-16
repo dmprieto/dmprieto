@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/diana-marcela-prieto-66432b3a">
+ <a href="[https://www.linkedin.com/in/diana-marcela-prieto-66432b3a](https://www.linkedin.com/in/dianamaprietom/)">
     <img alt="On Linkedin" src="https://img.shields.io/twitter/url?label=%2Fdiana-marcela-prieto-66432b3a&logo=LinkedIn&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fdiana-marcela-prieto-66432b3a%2F">
   </a>
  </p>
