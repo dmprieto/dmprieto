@@ -1,7 +1,7 @@
 <h2 align="center"> Hola 👋  I'm a software engineer who enjoys frontend development and also some backend coding </h2>
 <br />
 
- -  I'm learning how to do ✨Open Source✨ contributions
+ -  I'm learning how to collaborate with Claude Code to implement ✨Open Source✨ projects
 
 <br />
 <h3 align="left">Languages and Tools:</h3>
